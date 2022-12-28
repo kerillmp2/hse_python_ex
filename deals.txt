@@ -13,3 +13,18 @@ Close: 2.8542325USD
 Target: 3.105USD; 3.270USD; 3.400USD
 
 -----
+
+
+Bank: 50USD
+Entry: 3.0USD
+Close: 2.8542325USD
+Target: 3.105USD; 3.270USD; 3.400USD
+-----
+Entry: 3.0USD
+
+Bank: 50USD
+
+
+
+Close: 2.8542325USD
+Target: 3.105USD; 3.270USD; 3.400USD, 123.99USD
