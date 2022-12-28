@@ -28,3 +28,13 @@ Bank: 50USD
 
 Close: 2.8542325USD
 Target: 3.105USD; 3.270USD; 3.400USD, 123.99USD
+
+-----
+
+Target: 400USD
+Bank: 550USD
+
+Close: 2.8542325USD
+
+
+Entry: 200USD
